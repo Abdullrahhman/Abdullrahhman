@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdullrahhman
+- 👋 Hi, I’m Abdullrahhman
 - 👀 I’m interested in Coding/Tech
 - 🌱 I’m currently learning Flutter, German
 - 📫 How to reach me: @codingwithabdo on instagram
